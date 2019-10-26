@@ -1,4 +1,4 @@
-### Author: Jakub Knapik
+### Author: Patryk Gucik
 
 # Setting up the application
 
